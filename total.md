@@ -99,7 +99,7 @@
 |	97	|	expedite	|		|
 |	98	|	ethernet	|		|
 |	99	|	processor	|		|
-|	100	|	choice	| :point_left: We are here |
+|	100	|	choice	|  |
 |	101	|	prove	|		|
 |	102	|	proven	|		|
 |	103	|	friction	|		|
@@ -149,7 +149,7 @@
 |	147	|	purge	|		|
 |	148	|	retention	|		|
 |	149	|	portal	|		|
-|	150	|	generic	|		|
+|	150	|	generic	|  :point_left: We are here	|
 |	151	|	disparate	|		|
 |	152	|	prompt	|		|
 |	153	|	amplify	|		|
