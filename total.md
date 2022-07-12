@@ -149,7 +149,7 @@
 |	147	|	purge	|		|
 |	148	|	retention	|		|
 |	149	|	portal	|		|
-|	150	|	generic	|  :point_left: We are here	|
+|	150	|	generic	| 	|
 |	151	|	disparate	|		|
 |	152	|	prompt	|		|
 |	153	|	amplify	|		|
@@ -169,7 +169,7 @@
 |	167	|	extract	|		|
 |	168	|	extension	|		|
 |	169	|	navigation	|		|
-|	170	|	drag and drop	|		|
+|	170	|	drag and drop	|	 :point_left: We are here	|
 |	171	|	region	|		|
 |	172	|	geographic	|		|
 |	173	|	separate	|		|
