@@ -169,7 +169,7 @@
 |	167	|	extract	|		|
 |	168	|	extension	|		|
 |	169	|	navigation	|		|
-|	170	|	drag and drop	|	 :point_left: We are here	|
+|	170	|	drag and drop	|		|
 |	171	|	region	|		|
 |	172	|	geographic	|		|
 |	173	|	separate	|		|
@@ -199,7 +199,7 @@
 |	197	|	it's  my turn 	|		|
 |	198	|	flour	|		|
 |	199	|	simulation	|		|
-|	200	|	isolation	|		|
+|	200	|	isolation	|	 :point_left: We are here	|
 |	201	|	withstand	|		|
 |	202	|	disruption	|		|
 |	203	|	defend	|		|
