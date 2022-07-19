@@ -199,7 +199,7 @@
 |	197	|	it's  my turn 	|		|
 |	198	|	flour	|		|
 |	199	|	simulation	|		|
-|	200	|	isolation	|	 :point_left: We are here	|
+|	200	|	isolation	|	 	|
 |	201	|	withstand	|		|
 |	202	|	disruption	|		|
 |	203	|	defend	|		|
@@ -219,7 +219,7 @@
 |	217	|	currently	|		|
 |	218	|	defects	|		|
 |	219	|	in terms of	|		|
-|	220	|	insight	|		|
+|	220	|	insight	|	:point_left: We are here	|
 |	221	|	excellence	|		|
 |	222	|	conclusion	|		|
 |	223	|	foundational	|		|
