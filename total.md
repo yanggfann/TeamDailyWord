@@ -219,7 +219,7 @@
 |	217	|	currently	|		|
 |	218	|	defects	|		|
 |	219	|	in terms of	|		|
-|	220	|	insight	|	:point_left: We are here	|
+|	220	|	insight	|		|
 |	221	|	excellence	|		|
 |	222	|	conclusion	|		|
 |	223	|	foundational	|		|
@@ -249,7 +249,7 @@
 |	247	|	trigger	|		|
 |	248	|	preserved	|		|
 |	249	|	strictly	|		|
-|	250	|	intensive	|		|
+|	250	|	intensive	|	:point_left: We are here	|
 |	251	|	order	|		|
 |	252	|	effort	|		|
 |	253	|	occasionally	|		|
